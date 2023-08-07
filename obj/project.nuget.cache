@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDOAjwRMwy0P/rMr9YML8VskTdsUslR6Nvcyc2hg+8EKQlMXxXXVh3W5VfXmiccHv4XvschITbATrU8h/PKp3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Atividade mvc\\LHPet\\LHPet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
