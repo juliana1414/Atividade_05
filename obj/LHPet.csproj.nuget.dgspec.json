@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Atividade mvc\\LHPet\\LHPet.csproj": {}
+    "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Codi--Atividade05\\-Atividade5\\LHPet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Atividade mvc\\LHPet\\LHPet.csproj": {
+    "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Codi--Atividade05\\-Atividade5\\LHPet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Atividade mvc\\LHPet\\LHPet.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Codi--Atividade05\\-Atividade5\\LHPet.csproj",
         "projectName": "LHPet",
-        "projectPath": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Atividade mvc\\LHPet\\LHPet.csproj",
+        "projectPath": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Codi--Atividade05\\-Atividade5\\LHPet.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Atividade mvc\\LHPet\\obj\\",
+        "outputPath": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Codi--Atividade05\\-Atividade5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
